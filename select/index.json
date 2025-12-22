@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "青い山脈",
+  "base_artist": "藤山一郎",
+  "createdAt": "2025-12-22T07:32:37.632583Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "青い山脈",
+      "artist": "보천보전자악단",
+      "has_synced": false,
+      "path": "select/01_青い山脈_보천보전자악단.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "青い山脈",
+      "artist": "矢野顕子",
+      "has_synced": true,
+      "path": "select/02_青い山脈_矢野顕子.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "青い山脈",
+      "artist": "Akiko Yano",
+      "has_synced": true,
+      "path": "select/03_青い山脈_Akiko_Yano.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "青い山脈",
+      "artist": "藤山 一郎",
+      "has_synced": false,
+      "path": "select/pl_01_青い山脈_藤山_一郎.txt"
+    }
+  ]
+}
